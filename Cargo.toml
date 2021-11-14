@@ -1,0 +1,9 @@
+[package]
+name = "rust_test"
+version = "0.1.0"
+authors = ["Cole Fleming <cmfleming@eths202.org>"]
+edition = "2021"
+
+
+[dependencies]
+libm = "*"
